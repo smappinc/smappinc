@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">smappinc 🥷</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&size=22&pause=1000&color=E1E1E1&width=435&lines=As-salamu+alaykum;Marhaban+bikum;I'm+smappinc)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&size=22&pause=1000&color=E1E1E1&width=435&lines=As-salamu+alaykum;Bonjour;Hola;Nǐn+hǎo;Salve;Guten+Tag;I'm+smappinc)](https://git.io/typing-svg)
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 * 💻 I'm currenlty working as a freelancer and on my own projects

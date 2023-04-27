@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 * 💻 I'm currenlty working as a freelancer and on my own projects
 * ⚡ Contribuing to <a>opensource</a> projects. 
 * 🌱 Always experimenting with new tech. 
-* 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
 
-<!--
+
 ### Technologies
 
 <div align="left">
@@ -36,7 +35,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" width="42" alt="aftereffects logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" width="42" alt="premierepro logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="42" alt="illustrator logo"  />
+</div>
+<!--
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="42" alt="illustrator logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" width="42" alt="inkscape logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -78,7 +79,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
-</div>
 -->
 
 ### Github Stats

@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 * 💻 I'm currenlty working as a freelancer and on my own projects
 * ⚡ Contribuing to <a>opensource</a> projects. 
 * 🌱 Always experimenting with new tech. 
-* 
-* managed by brownstic
+* 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
 
 <!--
 ### Technologies

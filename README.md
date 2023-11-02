@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">smappinc 🥷</h2>
+<h2 align="left">Dominic 🥷</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&size=22&pause=1000&color=E1E1E1&width=435&lines=As-salamu+alaykum;Bonjour;Hola;Nǐn+hǎo;Salve;Guten+Tag;I'm+smappinc)](https://git.io/typing-svg)
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 <!--* 💻 I'm currenlty working as a freelancer and on my own projects -->
-* ⚡ Contribuing to <a>opensource</a> projects. 
+* ⚡ Learning....
 * 🌱 Always experimenting with new tech. 
 
 
@@ -80,10 +80,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
 -->
-
+<!--
 ### Github Stats
-
+<!--
 <div align="left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=smappinc" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=smappinc&count_private=true" height="150" alt="languages graph"  />
 </div>
+-->
